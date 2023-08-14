@@ -4,7 +4,7 @@ This tutorial serves as an introduction to quantitative finance and how to estim
 # Theory
 The Carhart 4-factor model builds upon the Fama-French factor model, which is a 3-factor model including the size of firms (Small Minus Big - SMB), the value premium (High Minus Low - HML), and excess return on the market (the portfolio's return less the risk-free rate of return). The additional factor in the Carhart model is momentum (MOM). 
 
-The idea of evaluating a stock based on these four factors is to better understand differences in its expected returns. Ultimately, one can build a strategy around the findings to build a portfolio.
+The idea of evaluating a stock based on these four factors is to better understand differences in its expected returns. Ultimately, one can build a strategy around the findings to build a portfolio, which is the basis of factor investing.
 
 # Sources
 YouTube Tutorial: https://www.youtube.com/watch?v=gN7JOFOO-eM&ab_channel=TechFin
