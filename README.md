@@ -6,5 +6,8 @@ The Carhart 4-factor model builds upon the Fama-French factor model, which is a 
 
 The idea of evaluating a stock based on these four factors is to better understand differences in its expected returns the amount of risk carried by a portfolio. Ultimately, one can build a strategy around the findings to build a portfolio, which is the basis of factor investing.
 
+# Methodology
+
+
 # Sources
 YouTube Tutorial: https://www.youtube.com/watch?v=gN7JOFOO-eM&ab_channel=TechFin
