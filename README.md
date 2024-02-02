@@ -3,7 +3,6 @@ This repository is meant for finance-related discovery projects to learn more ab
 
 This repository contains the following projects:
 1. Risk Factor Model Estimation of a Stock (AAPL)
-2. Monte Carlo Simulation of a Stock Portfolio with Python
 
 ## 1. Risk Factor Model Estimation
 This tutorial serves as an introduction to quantitative finance and how to estimate the Fama French Carhart four-factor risk model exposures for an arbitrary stock using live data in Python to build upon what I learned in the International Asset Management course I took while abroad. This project covers the process and common pitfalls of pulling live data from the Fama-French risk factor database and from Yahoo Finance and running a factor sensitivity estimation using linear regression.
@@ -31,12 +30,3 @@ The most significant factors affecting AAPL were shown to be the market risk-fre
 
 ### Sources
 YouTube Tutorial: https://www.youtube.com/watch?v=gN7JOFOO-eM&ab_channel=TechFin
-
-## 2. Monte Carlo Simulation of a Stock Portfolio with Python
-### Theory
-The Monte Carlo Method is based on computational simulations that rely on repeated random sampling to obtain results.
-
-### Methodology
-### Findings
-### Sources
-YouTube Tutorial: https://www.youtube.com/watch?v=6-dhdMDiYWQ&ab_channel=QuantPy
