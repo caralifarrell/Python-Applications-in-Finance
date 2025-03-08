@@ -3,6 +3,9 @@ This repository is meant for finance-related discovery projects to learn more ab
 
 This repository contains the following projects:
 1. Risk Factor Model Estimation of a Stock (AAPL)
+2. Equal Weights
+3. Value Investing
+4. Dividend Based Investing
 
 ## 1. Risk Factor Model Estimation
 This tutorial serves as an introduction to quantitative finance and how to estimate the Fama French Carhart four-factor risk model exposures for an arbitrary stock using live data in Python to build upon what I learned in the International Asset Management course I took while abroad. This project covers the process and common pitfalls of pulling live data from the Fama-French risk factor database and from Yahoo Finance and running a factor sensitivity estimation using linear regression.
@@ -30,3 +33,48 @@ The most significant factors affecting AAPL were shown to be the market risk-fre
 
 ### Sources
 YouTube Tutorial: https://www.youtube.com/watch?v=gN7JOFOO-eM&ab_channel=TechFin
+
+## 2. Equal Weights
+
+### Theory
+Equal weights investing, as stated in the name, is a strategy that allocates the value of your portfolio amongst x stocks chosen.
+Say you have a list of 5 stocks you want to invest in and a total portfolio of 100,000 CAD. 
+Each stock will be allocated 20,000 CAD, but the number of shares will depend on the current market price and will differ per stock (i.e. number of shares = allocated portfolio amount in CAD / current stock price in CAD). 
+
+Inputs:
+1. Portfolio value - 100,000 CAD
+2. List of stocks (S&P500, Nasdaq100)
+   e.g. Apple (AAPL) - 20,000 CAD
+        NVIDIA (NVDA) - 20,000 CAD
+        Microsoft (MSFT) - 20,000 CAD
+        Amazon (AMZN) - 20,000 CAD
+        Meta (META), formerly Facebook, Class A - 20,000 CAD
+
+### Methodology
+
+### Findings
+
+### Sources
+YouTube Tutorial: https://www.youtube.com/watch?v=HmBeJ3rw2Vo&t=93s&ab_channel=BuildwithAkshit
+
+## 3. Value Investing
+
+### Theory
+
+### Methodology
+
+### Findings
+
+### Sources
+YouTube Tutorial: https://www.youtube.com/watch?v=HmBeJ3rw2Vo&t=93s&ab_channel=BuildwithAkshit
+
+## 4. Dividend Based Investing
+
+### Theory
+
+### Methodology
+
+### Findings
+
+### Sources
+YouTube Tutorial: https://www.youtube.com/watch?v=HmBeJ3rw2Vo&t=93s&ab_channel=BuildwithAkshit
